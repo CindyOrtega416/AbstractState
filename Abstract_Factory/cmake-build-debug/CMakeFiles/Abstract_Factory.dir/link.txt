@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Abstract_Factory.dir/main.cpp.o  -o Abstract_Factory 
